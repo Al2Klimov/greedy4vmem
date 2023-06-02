@@ -1,0 +1,1 @@
+Allocates memory until killed.
